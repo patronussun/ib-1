@@ -1,0 +1,34 @@
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.exe.config
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.exe
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.pdb
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.csprojResolveAssemblyReference.cache
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.Form1.resources
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.Properties.Resources.resources
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.csproj.GenerateResource.Cache
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.exe
+c:\users\kpuccmajl\documents\visual studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.pdb
+C:\Users\telik\Desktop\IB_1\IB_1\bin\Debug\IB_1.exe.config
+C:\Users\telik\Desktop\IB_1\IB_1\obj\Debug\IB_1.exe
+C:\Users\telik\Desktop\IB_1\IB_1\obj\Debug\IB_1.pdb
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.exe.config
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.pdb
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\bin\Debug\IB_1.pdb
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.csprojResolveAssemblyReference.cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.Form1.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.Properties.Resources.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IB_1\IB_1\obj\Debug\IB_1.csproj.GenerateResource.Cache
+D:\!_USERS\Maria\desktop\IB_1\IB_1\bin\Debug\IB_1.exe.config
+D:\!_USERS\Maria\desktop\IB_1\IB_1\obj\Debug\IB_1.exe
+D:\!_USERS\Maria\desktop\IB_1\IB_1\obj\Debug\IB_1.pdb
+D:\!_USERS\Maria\desktop\IB_1\IB_1\bin\Debug\IB_1.exe
+D:\!_USERS\Maria\desktop\IB_1\IB_1\bin\Debug\IB_1.pdb
+D:\!_USERS\Maria\desktop\IB_1\IB_1\obj\Debug\IB_1.Form1.resources
+D:\!_USERS\Maria\desktop\IB_1\IB_1\obj\Debug\IB_1.Properties.Resources.resources
+D:\!_USERS\Maria\desktop\IB_1\IB_1\obj\Debug\IB_1.csproj.GenerateResource.Cache
+D:\!_USERS\Maria\desktop\IB_1\IB_1\bin\Debug\IB_1.exe.CodeAnalysisLog.xml
+D:\!_USERS\Maria\desktop\IB_1\IB_1\bin\Debug\IB_1.exe.lastcodeanalysissucceeded
+C:\Users\V\Source\Repos\ib-1\IB_1\bin\Debug\IB_1.exe.config
+C:\Users\V\Source\Repos\ib-1\IB_1\obj\Debug\IB_1.exe
+C:\Users\V\Source\Repos\ib-1\IB_1\obj\Debug\IB_1.pdb

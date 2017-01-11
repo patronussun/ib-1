@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UsersCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersCatalog>
+    <User>
+      <Login>ADMIN</Login>
+      <Password />
+      <isAdmin>true</isAdmin>
+      <isBlocked>false</isBlocked>
+      <isPasswordRestricted>false</isPasswordRestricted>
+    </User>
+    <User>
+      <Login>anna</Login>
+      <Password>C56895F3082B9B6B380106777B54B74E</Password>
+      <isAdmin>false</isAdmin>
+      <isBlocked>false</isBlocked>
+      <isPasswordRestricted>true</isPasswordRestricted>
+    </User>
+  </UsersCatalog>
+</UsersCatalog>
